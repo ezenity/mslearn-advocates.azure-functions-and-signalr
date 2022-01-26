@@ -1,10 +1,10 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=cloudshell1090686667;AccountKey=0XTrZtTG8qRKMhLvXKhmEIxrZ4TbzBkQoKI7Egs3tzu6Mj0kOjskzyGIm+5RUWg9aMjaY+D/FE7hR9ZCXSZRrA==",
-    "AzureCosmosDBConnectionString": "AccountEndpoint=https://msl-sigr-cosmos-9594b52354.documents.azure.com:443/;AccountKey=BGNezozKQIMcOsJ8vOnHAkaIzomHmVgvyrO0z71Esqu7Rs3djtm2ninMwsFQK3f09U6b9hSheRQWu5o5rHFFTw==;",
-    "AzureCosmosDBMasterKey": "BGNezozKQIMcOsJ8vOnHAkaIzomHmVgvyrO0z71Esqu7Rs3djtm2ninMwsFQK3f09U6b9hSheRQWu5o5rHFFTw==",
-    "AzureSignalRConnectionString": "Endpoint=https://msl-sigr-signalr69344c7413.service.signalr.net;AccessKey=8T8NVjnfORkMskS1VE+hzh7nJF3Cw/OrZyN08VGa+Mw=;Version=1.0;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=cloudshell182006339;AccountKey=PC8de7a4GWJxY+m2V6dpMNlVgMRI35XIAYRnhNUF1uWDoxcWxGxMrCOTBrFZxRvTsWjFBPo44LpGV3k55gMoiQ==",
+    "AzureCosmosDBConnectionString": "AccountEndpoint=https://msl-sigr-cosmos-8aa9ec44c1.documents.azure.com:443/;AccountKey=ocibI3fmNnJVBYHY4Hih3DGSFQPtFTj3HwTwTujY0KV8TDmDQJY2MvQDqyffsQMhtsosA9wfbqXXAFEaYvjk5Q==;",
+    "AzureCosmosDBMasterKey": "ocibI3fmNnJVBYHY4Hih3DGSFQPtFTj3HwTwTujY0KV8TDmDQJY2MvQDqyffsQMhtsosA9wfbqXXAFEaYvjk5Q==",
+    "AzureSignalRConnectionString": "Endpoint=https://msl-sigr-signalr84f75382fb.service.signalr.net;AccessKey=cRXQ7dhPdNOgPgrQQU2leLhiEvMkrMfHVpC4BxpJ1D0=;Version=1.0;",
     "FUNCTIONS_WORKER_RUNTIME": "node"
   },
   "Host": {
