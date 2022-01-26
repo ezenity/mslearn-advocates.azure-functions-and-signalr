@@ -16,7 +16,7 @@ const app = new Vue({
   methods: {
     async getStocks() {
       try {
-        const apiUrl = `${LOCAL_BASE_URL}/api/getStocks`;
+        const apiUrl = `${getAPIBaseUrl()}/api/getStocks`;
         const response = await axios.get(apiUrl);
         //console.log('Stocks fetched from ', apiUrl);
         app.stocks = response.data;
@@ -27,13 +27,9 @@ const app = new Vue({
     // startPoll() {
     //     this.interval = setInterval(this.update, 5000);
     // }
-    created() {
-      this.getStocks();
-    },
   },
   created() {
-    this.update();
-    this.startPoll();
+    this.getStocks();
   },
 });
 
